@@ -1,2 +1,2 @@
 # Hello World
- Testandoo git e o GitHub
+ Testando o git e o GitHub.
